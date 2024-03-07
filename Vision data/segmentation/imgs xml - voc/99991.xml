@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imgs</folder>
+	<filename>0a00a00ec6a01afe95d6_62cba9aec4636_exFrontBumperImage.jpg</filename>
+	<path>/Users/jahid.hasan/Desktop/Annots/Imgs/0a00a00ec6a01afe95d6_62cba9aec4636_exFrontBumperImage.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>105</xmin>
+			<ymin>596</ymin>
+			<xmax>608</xmax>
+			<ymax>780</ymax>
+		</bndbox>
+	</object>
+</annotation>

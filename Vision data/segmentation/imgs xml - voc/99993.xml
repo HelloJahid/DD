@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Imgs</folder>
+	<filename>0a1df59219c1ef2eba85_63929f43d0b47_exRightFrontDoorImage.jpg</filename>
+	<path>/Users/jahid.hasan/Desktop/Annots/Imgs/0a1df59219c1ef2eba85_63929f43d0b47_exRightFrontDoorImage.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>768</width>
+		<height>1024</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>scratch</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>330</xmin>
+			<ymin>414</ymin>
+			<xmax>482</xmax>
+			<ymax>513</ymax>
+		</bndbox>
+	</object>
+</annotation>
